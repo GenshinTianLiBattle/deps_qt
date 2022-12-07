@@ -1,0 +1,1 @@
+set PATH=%PATH%;%~dp05.15.7\bin;
